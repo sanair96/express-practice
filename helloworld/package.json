@@ -1,0 +1,23 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Basic Hello World app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanair96/express-practice.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "sanair96",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanair96/express-practice/issues"
+  },
+  "homepage": "https://github.com/sanair96/express-practice#readme"
+}
